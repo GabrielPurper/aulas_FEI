@@ -1,0 +1,144 @@
+.body {
+    background-color: lightgray;
+}
+
+#Document {
+    size: 50%;
+    color: darkgreen;
+    align-items: center;
+
+}
+
+a {
+    text-decoration: none;
+    color: darkred;
+}
+
+nav {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+ul {
+    text-align: center;
+}
+
+.cabecalho {
+    display: flex;
+    background-color: bisque;
+    padding: auto;
+    border-style: solid;
+    border-color: indigo;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+}
+
+.img1 {
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+}
+
+li {
+    display: flex;
+    display: inline;
+    gap: 40%;
+}
+
+title {
+    font-size: 50px;
+    color: darkgreen;
+}
+
+.title_2 {
+    text-align: center;
+}
+
+p {
+    display: block;
+    color: indigo;
+    text-align: justify;
+    align-items: center;
+}
+
+h1 {
+    justify-items: center;
+}
+
+.tabela {
+    border: red;
+    border-collapse: collapse;
+    align-items: center;
+    margin: 0 auto;
+}
+
+td {
+    border: 1px solid red;
+    padding: 15px;
+    text-align: center;
+}
+
+tr {
+    border: 1px dashed red;
+}
+
+.tela {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+}
+
+.come {
+    background-color: yellow;
+    padding: 20px;
+    width: 600px;
+    font-family: serif;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.come1 {
+    margin-top: 0;
+    display: flex;
+    text-align: justify;
+}
+
+h3 {
+    size: 20px;
+}
+
+.cabeca {
+    background-color: lightskyblue;
+}
+
+.fonte {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.link{
+    font-weight: bold;
+}
+
+footer {
+    display: flex;
+    background-color: bisque;
+    justify-content: space-around;
+
+}
