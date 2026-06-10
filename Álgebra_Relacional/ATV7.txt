@@ -1,1 +1,0 @@
-πalu_nome(σdisc_codigo = 'Matematica Basica'(Disciplina|x|Matricula|x|Aluno))

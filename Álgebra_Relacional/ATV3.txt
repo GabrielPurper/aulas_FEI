@@ -1,1 +1,0 @@
-πprof_numero(σdisc_codigo = 'MAT101'(Disciplina|x|professor_disciplina))

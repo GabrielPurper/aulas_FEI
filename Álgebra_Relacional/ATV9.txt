@@ -1,1 +1,0 @@
-πalu_nome(σprof_nome = 'Marcos Santos'(Aluno|x|Matricula|x|Disciplina|x|professor_diciplina|x|Professor))
