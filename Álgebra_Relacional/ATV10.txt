@@ -1,4 +1,0 @@
-NotaANA = πnota(σalu_nome='AnaSilva∧disc_codigo='FIS202'(Aluno|X|Matricula)
-
-
-πalu_nome(σnota>notaANA(σdisc_codigo = 'FIS202'(Aluno|x|Matricula)|x|ρnota→nota_ANA(notaANA))

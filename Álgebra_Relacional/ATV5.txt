@@ -1,1 +1,0 @@
-πalu_nome(σdisc_codigo = 'MAT101'(Disciplina|x|Matricula|x|Alunos))
