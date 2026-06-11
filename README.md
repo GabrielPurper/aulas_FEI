@@ -1,8 +1,6 @@
-Esse é a Aula do Primeiro Semestre da FEI LIberdade SP
+# 📚 Aulas FEI - 2º Semestre
 
-# 📚 Aulas FEI - 1º Semestre
-
-Repositório para organizar atividades e projetos do **1º semestre** de Engenharia na FEI.
+Repositório para organizar atividades e projetos do **2º semestre** de Engenharia na FEI.
 
 ## 📋 Conteúdo
 
