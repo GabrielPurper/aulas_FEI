@@ -12,7 +12,7 @@ Repositório para organizar atividades e projetos do **1º semestre** de Engenha
 
 ## 📖 Histórico de Semestres
 
-- **`main`** (branch atual) → 2º Semestre 🔄
+- **`main`** (branch atual) → 3º Semestre 🔄
 - **`Aula_FEI_1`** (branch backup) → 1º Semestre ✅
 - **`Aula_FEI2`** (branch backup) → 2º Semestre ✅
 
