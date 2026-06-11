@@ -1,1 +1,0 @@
-πdisc_codigo(σdisc_nome = 'Matematica Basica'(Disciplina))

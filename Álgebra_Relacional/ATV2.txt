@@ -1,1 +1,0 @@
-πprof_rua(σprof_nome = 'Marcos Santos'(Professor))
