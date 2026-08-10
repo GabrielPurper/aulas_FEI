@@ -1,6 +1,6 @@
-# 📚 Aulas FEI - 3º Semestre
+# 📚 Aulas FEI - 2º Semestre
 
-Repositório para organizar atividades e projetos do **3º semestre** de Engenharia na FEI.
+Repositório para organizar atividades e projetos do **2º semestre** de Engenharia na FEI.
 
 ## 📋 Conteúdo
 
