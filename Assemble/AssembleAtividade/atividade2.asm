@@ -32,6 +32,6 @@ B_ativo:
     NOP
     NOP
 
-    LJMP Volta      
+    LJMP inicio     
 
 END
